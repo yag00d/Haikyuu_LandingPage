@@ -1,0 +1,312 @@
+body{
+    background-color: #303030;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+}
+
+.menu-naveg{
+    background-color: black;
+    width: 100%;
+    height: 125px;
+    border-bottom: 4px solid #ff7b00;
+}
+
+main{
+    margin: 0 auto;
+    width: 1000px;
+    position: relative;
+}
+
+.logo{
+    float: left;
+    width: 30%;
+}
+
+.naveg{
+    position: relative;
+    float: right;
+    width: 50%;
+    padding-left: 20%;
+    margin-top: 4%;
+}
+
+.naveg ul li{
+    margin-left: 14px;
+    display:inline-block;
+    color:white;
+}
+
+.naveg ul li a:hover{
+    color: #ff7b00;
+
+
+}
+
+.naveg ul li a {
+    font-size: 22px;
+    color:white;
+    text-decoration: none;
+}
+
+
+.corpo{
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    border-bottom: 4px solid #ff7b00;
+
+}
+.banner{
+    display:inline-block;
+    
+}
+.foto-time-1 img
+{
+    position: relative;
+    right: 300px;
+    width: auto;
+    height: auto;
+    max-width: 1000px;
+    max-height: 500px;
+}
+
+.foto-time-2 img
+{
+    position: relative;
+    left: 580px;
+    bottom: 500px;
+    width: 587px;
+    height: 500px;
+    border-left: 4px solid #ff7b00;
+}
+
+.titulo-noticia, h1{
+    text-align: center;
+    font-size: 40px;
+    color:white;
+    position: relative;
+    bottom: 200px;
+}
+
+.noticia img
+{
+    position: relative;
+    right: 50px;
+    bottom: 296px;
+    width: 1080px;
+    height: 800px;
+    border-left: 4px solid #ff7b00;
+    border-right: 4px solid #ff7b00;
+    border-top: 4px solid #ff7b00;
+}
+
+
+.corpo-atletas{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    border-bottom: 3px solid #ff7b00;
+}
+.trio-1 ul li{
+    width: 33%;
+    margin-top: 20px;
+    display: inline-block;
+    box-sizing: content-box;
+}
+
+.trio-2 ul li{
+    width: 33%;
+    margin-top: 20px;
+    display: inline-block;
+    box-sizing: content-box;
+}
+
+.trio-3 ul li{
+    width: 33%;
+    margin-top: 20px;
+    display: inline-block;
+    box-sizing: content-box;
+}
+
+
+.rodape{
+    background-color: black;
+    width: 100%;
+    height: 200px;
+    border-top: 3px solid #ff7b00;
+}
+
+
+.sobre{
+    width: 1300px; 
+    float: left;
+    
+}
+
+.foto-de-fundo{
+    opacity: 55%;
+    border-bottom: 3px solid #ff7b00;
+
+}
+
+.titulo-sobre
+{
+    float: left;
+    position: relative;
+    bottom: 280px;
+    width: 50%;
+    right: 15%;
+    text-align: center;
+    font-size: 60px;
+}
+
+.texto-sobre {
+    float: right;
+    position: relative;
+    bottom: 680px;
+    width: 50%;
+    margin-left: 20%;
+    text-align: justify;
+    color: white;
+    font-size: 30px;
+ 
+}
+
+
+
+.equipe h2{
+    text-align: center;
+    position: relative;
+    color: white;
+    bottom: 150px;
+
+    
+}
+
+.dupla-1 ul li{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    position: relative;
+    left: 7%;
+    width: 40%;
+    display: inline-block;
+    box-sizing: content-box;
+}
+.dupla-2 ul li{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    position: relative;
+    left: 7%;
+    width: 40%;
+    display: inline-block;
+    box-sizing: content-box;
+}
+
+.endereco-informacoes{
+    width: 500px;
+    float: left;
+}
+
+
+.titulo-endereco {
+    position: relative;
+    right: 425px;
+    text-align: center;
+    margin-top: 15%;
+    font-size: 25px;
+    color: white;
+}
+
+.texto-endereco {
+    position: relative;
+    width: 50%;
+    text-align: left;
+    font-size: 20px;
+    color: white;
+}
+
+.titulo-outros {
+    position: relative;
+    right: 340px;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 25px;
+    color: white;
+}
+
+.texto-outros {
+    position: relative;
+    width: 50%;
+    text-align: left;
+    font-size: 20px;
+    color: white;
+}
+
+.escola img{
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 55%;
+    bottom: 300px;
+    border-bottom: 3px solid #ff7b00;
+    border-left: 3px solid #ff7b00;
+    border-top: 3px solid #ff7b00;
+    border-right: 3px solid #ff7b00;
+
+}
+
+.titulo-nome{
+    position: relative;
+    bottom: 130px;
+    color: white;
+
+}
+
+
+.contato-sociais{
+    height: 350px;
+    background-color: #ff8b43;
+    border-top: 4px solid white;
+
+}
+.subtitulo-redes, h2{
+text-align: center;
+color: white;
+}
+
+.redes-sociais ul li{
+    display:inline-block;
+    position: relative;
+    color:white;
+    top: 50px;
+    left: 190px;
+    margin-left: 50px;
+}
+
+.rodape-logo{
+    float: left;
+    position: relative;
+    margin-top: 45px;
+    left: 370px;
+    width: 30%;
+}
+
+.rodape-home{
+    border-top: 4px solid #ff7b00;
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    margin-top: 82.3%;
+}
+
+.rodape-home-logo{
+    float: left;
+    position: relative;
+    margin-top: 100px;
+    left: 370px;
+    width: 30%;
+}
+
